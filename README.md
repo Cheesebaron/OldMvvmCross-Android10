@@ -12,4 +12,4 @@ All the bits containing the fixes are in the classes starting with `Fixed`. This
 - FixedContextWrapper
 - FixedActivity
 
-Feel fee to copy/paste the code into your own App.
+Feel free to copy/paste the code into your own App.
